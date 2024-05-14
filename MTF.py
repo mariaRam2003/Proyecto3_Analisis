@@ -50,7 +50,7 @@ def total_access_cost(sequence, configuration, algorithm):
 # Secuencia de solicitudes
 sequence_a = [0, 1, 2, 3, 4, 0, 1, 2, 3, 4, 0, 1, 2, 3, 4, 0, 1, 2, 3, 4]
 sequence_b = [4, 3, 2, 1, 0, 1, 2, 3, 4, 3, 2, 1, 0, 1, 2, 3, 4]
-sequence_c = [2] * 20
+sequence_c = [1] * 20   
 sequence_d = [3] * 20
 sequence_e = [2] * 20
 sequence_f = [3] * 20
